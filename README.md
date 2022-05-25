@@ -6,7 +6,7 @@ This repository is setup to provide a means for individuals who have been invite
 
 ### Prerequisites
 
-Individuals contributing content must first sign the [Microsoft Contributor License Agreement here](https://cla.opensource.microsoft.com/microsoft/.github)
+Individuals contributing content must first sign the [Microsoft Contributor License Agreement here](https://cla.opensource.microsoft.com/microsoft/.github). When you submit a PR you will see [this in your pull request](https://docs.opensource.microsoft.com/tools/cla/#how-does-it-work)
 
 ### Steps to follow
 
@@ -21,3 +21,7 @@ Follow the following steps to contribute content.
 1. View your blog post to ensure it renders correctly with graphics. Test all links to ensure they work correctly.
 1. Submit a PR for your contribution. (Note: if you have no signed the CLA you will be prompted to do so. PR's cannot be accepted without a signed CLA).
 1. Once the PR is merged. You will be contacted with next steps.
+
+### Next Steps
+
+There is a **sample blog post** in the repo here. It has some example markdown if you are not familiar with markdown as well as links to both tools and cheat sheets for writing markdown. After you fork this repo, you can take a look at the sample blog post and use it as a template.
